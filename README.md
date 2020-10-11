@@ -1,2 +1,2 @@
-# CBFriendsCost
-CB Project
+# Cashflow Reducer
+
